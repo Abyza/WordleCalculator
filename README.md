@@ -1,3 +1,3 @@
 # WordleCalculator
 
-play my game @ abyza.github.io/wordlecalculator
+play my game @ https://abyza.github.io/WordleCalculator/
